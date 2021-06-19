@@ -3,7 +3,9 @@ Java patterns of star, number and characters.
 
 Star Pattern P1 - P23
 
-## 📌 How to code and what logic is used Check out my youtube channel - https://www.youtube.com/c/Fluxsama  Make Sure to Subscribe !! 
+## 📌 How to code and what logic is used? 
+
+Check out my youtube channel - https://www.youtube.com/c/Fluxsama  Make Sure to Subscribe !! 
 
  ### Program1 is P1 & so on ..... 
  
